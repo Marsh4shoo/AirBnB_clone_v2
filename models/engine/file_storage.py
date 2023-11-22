@@ -80,4 +80,3 @@ class FileStorage:
             pass
         except KeyboardInterrupt:
             pass
-
